@@ -1647,7 +1647,10 @@
                 <L7p:SaveResponse booleanValue="true"/>
             </L7p:AuditAssertion>
             <L7p:CommentAssertion>
-                <L7p:Comment stringValue="Build Tag: Layer7_AgentConnect1510_PROXY_JUL2016_05162016_BUILD_02"/>
+                <L7p:Comment stringValue="AgentConnect1510 proxy"/>
+            </L7p:CommentAssertion>
+            <L7p:CommentAssertion>
+                <L7p:Comment stringValue="Build Tag: Layer7_AgentConnect1510_PROXY_JUL2016_05032016_BUILD_02"/>
             </L7p:CommentAssertion>
             <L7p:Include>
                 <L7p:PolicyGuid stringValue="447a9ac4-30e5-4b27-9549-fee34852915f"/>
